@@ -91,10 +91,10 @@ void makefile(){
 	      printf("And, Please put x at the end\n");
 	        scanf("%[^x]",contents);
 		  scanf("%[^\n]",clear);
-		    ////////////////////////////////////////////////////////
+	////////////////////////////////////////////////////////
 	 fprintf(fp, "=============================================\n");
 	   
-	   set data
+	  //set data
 	   fprintf(fp, "Date %d %d %d\n", tm.tm_year, tm.tm_mon, tm.tm_mday);
 	   fprintf(fp, "Time %d:%d", tm.tm_hour, tm.tm_min);
 	   
