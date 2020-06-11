@@ -4,7 +4,7 @@
 int main(void) {
 	  int choosenum;
 	    
-	    print page
+	   // print page
 	    firstpage();
 	    secondpage();
 
