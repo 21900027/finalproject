@@ -134,7 +134,7 @@ void makefile(){
 
 		        fread(list, sizeof(list),1, fp);    // list.txt에서 문자열을 읽음
 
-			  printlist
+			 //printlist
 			  printf("=============================================\n");
 			  printf("\n");
 			  printf("%s\n", list);    
