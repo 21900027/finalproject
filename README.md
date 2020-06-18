@@ -1,13 +1,18 @@
 **THE DIARY**
 
-You can recode your daily life using *this diary*.
+이 프로젝트를 이용해 매일 *다이어리*를 작성할 수 있습니다.
+*코드는 처음부터 모두 본인이 직접 작성했습니다*
 
-if you write the diary, press 1
+프로그램이 실행된 후. 
+1번을 누르면 자신의 다이어리를 생성할 수 있습니다.
+제목을 설정 후, 내용을 모두 적고 *x*를 넣으면 내용이 저장됩니다
 
-then, the diary will recode the date *AUTOMATICALLY*.
+2번을 누르면 내가 지금까지 썼던 다이어리들의 제목을 볼 수 있으며
+3번을 누르고 불러오기를 희망하는 다이어리의 제목을 넣으면 다이어리를 불러올 수 있습니다.
 
-if you want to recall the *past*, press 3
+4번을 누르게 되면 프로그램이 종료됩니다.
+(여기서 사용된 아스키아트는 이 사이트에서 가져왔습니다 https://www.asciiart.eu/weapons/explosives)
 
-you can read your *OLD DIARY*.
 
+아래는 유튜브 영상 링크입니다.
 https://www.youtube.com/watch?v=RV4tZ_Q8nlQ
